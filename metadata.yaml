@@ -29,6 +29,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Conservation of marine birds of northern North America:
 
   papers from the international symposium held at the Seattle Hyatt House'
